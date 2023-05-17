@@ -1,0 +1,38 @@
+$bg:rgba(30, 30, 30, 0.753);
+
+.banner{
+    height: 400px;
+    border: 1px solid ;
+    background-color: $bg;
+
+}
+.row{ 
+     background-color: $bg;
+    color: white;
+    padding: 1rem;
+    
+    >h2{
+        font-weight: 300;
+    }
+    >div{
+        display: flex;
+         justify-content: space-evenly;
+        overflow-x: auto;
+        //  justify-content: center;
+         
+         
+    }
+}
+.card{
+    
+   
+position: relative;
+width: 800px;
+height: 70vh;
+    cursor: pointer;
+    margin: 1rem;
+    transition: transform 0.5s;
+    // &:hover{
+    //     transform: translate(-10px) scale(1.05);
+    // }
+}

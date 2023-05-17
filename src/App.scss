@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.haeder{
+    height: 100px;
+    background-color: rgba(30, 30, 30, 0.753);
+    align-items: center;
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+> img{
+    height: 100%;
+    }
+> div{
+    
+    
+       
+        width: 100%;
+        margin-left: 2vmax;
+        >a{
+            color: white;
+            text-decoration: none;  
+            margin: 10px;
+            font-weight: 300;
+            font-size: 1.1rem;
+        }
+    }
+    >svg{
+        color: white;
+        font-size: 2rem;
+        cursor: pointer;
+        &:hover{
+            color: rgb(206, 197, 197);
+        }
+    }
+   
+}
+

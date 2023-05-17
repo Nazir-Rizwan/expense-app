@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+}
+.balance{
+    margin: 2rem auto;
+    width: 30%;
+    
+    
+}
+.balance div{
+    display: flex;
+    justify-content: space-between;
+    color: HotPink;
+}
+.card{
+    display: flex;
+    width: 30%;
+    margin: 0 auto;
+    gap: 1rem;
+    padding: 1rem;
+    background-color: #E1D9D1;
+    justify-content: space-between;
+}
+.card div h3 {
+color: RebeccaPurple;
+font-size: 2rem;
+}
+
+ul{
+   list-style: none; 
+   
+   
+   display: flex;
+   justify-content: space-between;
+  align-items: center;
+  background-color: DarkOrchid;
+ width: 60%;
+ margin: 10px auto;
+ font-size: 3rem;
+   border-right: 8px solid;
+   
+}
+
+.newtransaction{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin :0.5rem auto;
+    line-height: 50px;
+    gap: 1rem;
+}
+
+
+    
