@@ -7,9 +7,12 @@
 logs
 **/*.backup.*
 **/*.back.*
-
+git rm -r --cached 
 node_modules
-birthday
+notgituse
+
+.vscode
+
 
 *.sublime*
 
