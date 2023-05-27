@@ -1,3 +1,11 @@
+<h2>Setup</h2>
+<p>Followig are the requirements to run this project</p><ul>
+<li>Node Package Manager (NPM)</li>
+</ul><ul>
+<li>React</li>
+  
+  
+
 # Demo Screen
 <a href='https://www.linkpicture.com/view.php?img=LPic6464ed3cae1ef1546990609'><img src='https://www.linkpicture.com/q/Capture_330.png' type='image'></a>
 <a href='https://www.linkpicture.com/view.php?img=LPic6464ef8c9200682288476'><img src='https://www.linkpicture.com/q/Capture2_47.png' type='image'></a>
@@ -24,11 +32,7 @@ Open[https://expense-app-git-main-nazir-rizwan.vercel.app/] to view
 </ul>
 <ul>
   
-  <h2>Setup</h2>
-<p>Followig are the requirements to run this project</p><ul>
-<li>Node Package Manager (NPM)</li>
-</ul><ul>
-<li>React</li>
+
 
 ### `npm start`
 
