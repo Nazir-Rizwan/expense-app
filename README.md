@@ -1,8 +1,8 @@
 <h2>Setup</h2>
 <p>Followig are the requirements to run this project</p><ul>
-<li>Node Package Manager (NPM)</li>
+<li>Node Js (LTS)</li>
 </ul><ul>
-<li>React</li>
+<li>React App </li>
   
  
   
